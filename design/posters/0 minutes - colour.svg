@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="840"
-   height="1080"
-   viewBox="0 0 2625 3375"
+   width="11.25in"
+   height="8.75in"
+   viewBox="0 0 3375 2625"
    version="1.1"
    id="svg906"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="1 minute - colour.svg"
+   sodipodi:docname="0 minutes - colour.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,10 +23,10 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="in"
      showgrid="false"
-     units="px"
+     units="in"
      inkscape:zoom="0.41020636"
-     inkscape:cx="535.09653"
-     inkscape:cy="380.2964"
+     inkscape:cx="756.93609"
+     inkscape:cy="441.24133"
      inkscape:window-width="1920"
      inkscape:window-height="1046"
      inkscape:window-x="900"
@@ -43,45 +43,31 @@
          r="85.827003"
          id="circle1421" />
     </clipPath>
-    <rect
-       x="199.4912"
-       y="1636.1237"
-       width="1841.5081"
-       height="1306.5208"
-       id="rect16722" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#fcb320;fill-opacity:1;stroke:none;stroke-width:33.8931;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#910303;fill-opacity:1;stroke:none;stroke-width:33.8931;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1222"
-       width="2626.5645"
-       height="2709.8408"
+       width="3376.3635"
+       height="1958.6796"
        x="-0.22790694"
        y="666.76196" />
-    <text
-       xml:space="preserve"
-       transform="matrix(9.3435765,0,0,9.3435765,-964.3989,-14466.219)"
-       id="text16720"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:333.333px;line-height:0.9;font-family:Dosis;-inkscape-font-specification:'Dosis Semi-Bold';white-space:pre;shape-inside:url(#rect16722);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.714058;stroke-miterlimit:4;stroke-dasharray:none"><tspan
-         x="199.49023"
-         y="1890.2895"
-         id="tspan8206">1</tspan></text>
     <g
        id="g1858"
-       transform="matrix(3.005221,0,0,3.8638465,-0.23036297,1.9341061)"
-       style="display:inline;stroke-width:17.6078">
+       transform="matrix(3.8631141,0,0,3.8638465,-0.23098798,1.9341061)"
+       style="display:inline;stroke-width:15.5301">
       <rect
-         style="fill:#074558;fill-opacity:1;stroke:none;stroke-width:9.94843;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#074558;fill-opacity:1;stroke:none;stroke-width:8.77453;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect846"
          width="874.00049"
          height="159.44682"
          x="0.00072854385"
          y="-0.61225343" />
       <rect
-         style="fill:#fcb320;fill-opacity:1;stroke:none;stroke-width:9.94833;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#fcb320;fill-opacity:1;stroke:none;stroke-width:8.77444;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1146"
          width="874.00049"
          height="13.229167"
@@ -90,7 +76,7 @@
     </g>
     <g
        id="g1756"
-       transform="matrix(3.8638506,0,0,3.8638506,-298.49692,1.9341086)"
+       transform="matrix(3.8638506,0,0,3.8638506,76.503078,1.9341086)"
        style="stroke-width:15.5284">
       <circle
          fill="#1d7193"
@@ -234,5 +220,21 @@
          id="path1478"
          style="display:inline;stroke-width:4.10859" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:848.388px;line-height:1;font-family:Dosis;-inkscape-font-specification:'Dosis Semi-Bold';text-align:center;text-anchor:middle;fill:#910303;fill-opacity:1;stroke-width:6.67322"
+       x="1686.6515"
+       y="1447.1548"
+       id="text1955"><tspan
+         sodipodi:role="line"
+         id="tspan1953"
+         style="fill:#fff5f5;fill-opacity:1;stroke-width:6.67322"
+         x="1686.6515"
+         y="1447.1548">Thank</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#fff5f5;fill-opacity:1;stroke-width:6.67322"
+         x="1686.6515"
+         y="2295.5427"
+         id="tspan3343">you</tspan></text>
   </g>
 </svg>
