@@ -35,7 +35,7 @@
      inkscape:window-x="797"
      inkscape:window-y="50"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showguides="false"
      showgrid="true"><sodipodi:guide
        position="12.7,279.4"
@@ -566,7 +566,7 @@
      id="g12"
      inkscape:label="2 cards"
      transform="matrix(1.3595948,-0.05312887,0.0531294,1.3596085,-26.851,-1.4947226)"><rect
-       style="font-variation-settings:normal;display:inline;opacity:1;fill:#008800;fill-opacity:0;stroke:#000000;stroke-width:0.944885;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-variation-settings:normal;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.944885;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect13"
        width="148.39728"
        height="199.73183"
@@ -858,7 +858,7 @@
        x="122.08897"
        y="86.029205"
        id="text53-9"
-       inkscape:label="location"><tspan
+       inkscape:label="location-online"><tspan
          sodipodi:role="line"
          style="font-size:4.93889px;text-align:start;text-anchor:start;fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0.79375"
          x="122.08897"
@@ -868,7 +868,8 @@
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;font-family:Lato;-inkscape-font-specification:'Lato Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#b1742a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.46209;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter65)"
        x="39.659401"
        y="-19.240721"
-       id="text58"><tspan
+       id="text58"
+       inkscape:label="title"><tspan
          sodipodi:role="line"
          id="tspan58"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Bold';fill:#0c5973;fill-opacity:1;stroke-width:1.46209"
