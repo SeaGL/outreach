@@ -680,8 +680,8 @@
     <rect
        x="81.255363"
        y="951.1214"
-       width="141.40607"
-       height="203.07125"
+       width="143.95916"
+       height="202.64624"
        id="rect3545-3" />
     <rect
        x="549.8656"
@@ -701,14 +701,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.70710675"
-     inkscape:cx="861.2561"
-     inkscape:cy="670.33726"
+     inkscape:cx="382.54479"
+     inkscape:cy="779.23171"
      inkscape:window-width="3440"
      inkscape:window-height="1371"
      inkscape:window-x="2048"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g3192-0"
      showguides="false">
     <inkscape:page
        x="0"
@@ -1226,9 +1226,9 @@
          transform="translate(53.662755,-5.562486)"><tspan
            x="-2.6373675"
            y="24.88777"
-           id="tspan46"><tspan
+           id="tspan2"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Lato Bold';fill:#1d7193"
-             id="tspan45">th</tspan></tspan></text>
+             id="tspan1">th</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:8.85799;display:inline;opacity:0.732377;fill:#000000;stroke:#004455;stroke-width:0.3556;stroke-dasharray:none"
@@ -1239,9 +1239,9 @@
          transform="rotate(180,38.10918,51.921188)"><tspan
            x="-2.6373675"
            y="24.88777"
-           id="tspan48"><tspan
+           id="tspan4"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Lato Bold';fill:#1d7193"
-             id="tspan47">th</tspan></tspan></text>
+             id="tspan3">th</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;opacity:0.732377;fill:#000000;stroke:#004455;stroke-width:0.3556;stroke-dasharray:none"
@@ -1321,14 +1321,14 @@
        transform="matrix(1.104206,0.57517713,-0.57517713,1.104206,500.31154,-206.8087)"><tspan
          x="64.648266"
          y="259.07668"
-         id="tspan50"><tspan
+         id="tspan6"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Dosis Bold'"
-           id="tspan49">        Annual Seattle </tspan></tspan><tspan
+           id="tspan5">        Annual Seattle </tspan></tspan><tspan
          x="29.95388"
          y="299.21108"
-         id="tspan52"><tspan
+         id="tspan8"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Dosis Bold'"
-           id="tspan51">GNU/Linux Conference </tspan></tspan></text>
+           id="tspan7">GNU/Linux Conference </tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:63.1592px;font-family:Lato;-inkscape-font-specification:'Lato Semi-Bold';text-align:start;text-anchor:start;opacity:1;fill:#1b4251;fill-opacity:1;stroke-width:4.41809"
@@ -1354,15 +1354,15 @@
        inkscape:label="Date"><tspan
          x="81.255859"
          y="973.44109"
-         id="tspan54"><tspan
+         id="tspan10"><tspan
            style="font-weight:600;-inkscape-font-specification:'Lato Semi-Bold'"
-           id="tspan53">November 7th &amp; 8th, 2025
+           id="tspan9">November 7th &amp; 8th, 2025
 </tspan></tspan><tspan
          x="81.255859"
          y="1003.4411"
-         id="tspan56"><tspan
+         id="tspan12"><tspan
            style="font-weight:600;-inkscape-font-specification:'Lato Semi-Bold'"
-           id="tspan55">Virtual and In-person</tspan></tspan></text>
+           id="tspan11">Virtual and In-person</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.65807036,-0.35978246,-0.35978246,-0.65807036,-578.78737,829.05959)"
@@ -1371,15 +1371,15 @@
        inkscape:label="Address"><tspan
          x="549.86523"
          y="935.2155"
-         id="tspan57">University of Washington
+         id="tspan13">University of Washington
 </tspan><tspan
          x="549.86523"
          y="958.54887"
-         id="tspan58">Husky Union Building (HUB)
+         id="tspan14">Husky Union Building (HUB)
 </tspan><tspan
          x="549.86523"
          y="981.88225"
-         id="tspan59">4001 E Stevens Way NW, Seattle, WA</tspan></text>
+         id="tspan15">4001 E Stevens Way NW, Seattle, WA</tspan></text>
     <g
        id="g36"
        transform="rotate(-30.223724,-265.76728,1753.5301)"
@@ -1399,11 +1399,11 @@
      transform="matrix(1.4744759,2.4034318e-4,-2.4034318e-4,1.4744759,-447.44101,-163.39254)"><tspan
        x="436.10547"
        y="843.03068"
-       id="tspan60">Get
+       id="tspan16">Get
 </tspan><tspan
        x="436.10547"
        y="878.29301"
-       id="tspan61">Involved!!</tspan></text>
+       id="tspan17">Involved!!</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:600;font-size:22.474px;font-family:Lato;-inkscape-font-specification:'Lato Semi-Bold';fill:#1b4251;fill-opacity:1;stroke-width:3.48106"
@@ -1478,75 +1478,71 @@
        inkscape:label="Topics"><tspan
          x="81.255859"
          y="964.55457"
-         id="tspan63"><tspan
+         id="tspan19"><tspan
            style="font-weight:normal;-inkscape-font-specification:Lato"
-           id="tspan62">Education
+           id="tspan18">Education
 </tspan></tspan><tspan
          x="81.255859"
          y="982.6103"
-         id="tspan65"><tspan
+         id="tspan22"><tspan
            style="font-weight:normal;-inkscape-font-specification:Lato"
-           id="tspan64">Hardware
+           id="tspan20">Hardware
 </tspan></tspan><tspan
          x="81.255859"
          y="1000.666"
-         id="tspan67"><tspan
+         id="tspan24"><tspan
            style="font-weight:normal;-inkscape-font-specification:Lato"
-           id="tspan66">Data Science
+           id="tspan23">Data Science
 </tspan></tspan><tspan
          x="81.255859"
          y="1018.7217"
-         id="tspan69"><tspan
+         id="tspan26"><tspan
            style="font-weight:normal;-inkscape-font-specification:Lato"
-           id="tspan68">Open-source AI
+           id="tspan25">Open-source AI
 </tspan></tspan><tspan
          x="81.255859"
          y="1036.7775"
-         id="tspan71"><tspan
+         id="tspan28"><tspan
            style="font-weight:normal;-inkscape-font-specification:Lato"
-           id="tspan70">Performance Art
+           id="tspan27">Performance Art
 </tspan></tspan><tspan
          x="81.255859"
          y="1054.8333"
-         id="tspan73"><tspan
+         id="tspan30"><tspan
            style="font-weight:normal;-inkscape-font-specification:Lato"
-           id="tspan72">Security &amp; Privacy
+           id="tspan29">Security &amp; Privacy
 </tspan></tspan><tspan
          x="81.255859"
          y="1072.889"
-         id="tspan75"><tspan
+         id="tspan32"><tspan
            style="font-weight:normal;-inkscape-font-specification:Lato"
-           id="tspan74">Languages &amp; Tools
+           id="tspan31">Languages &amp; Tools
 </tspan></tspan><tspan
          x="81.255859"
          y="1090.9448"
-         id="tspan77"><tspan
+         id="tspan34"><tspan
            style="font-weight:normal;-inkscape-font-specification:Lato"
-           id="tspan76">Systems &amp; Platforms
+           id="tspan33">Systems &amp; Platforms
 </tspan></tspan><tspan
          x="81.255859"
          y="1109.0006"
-         id="tspan79"><tspan
+         id="tspan36"><tspan
            style="font-weight:normal;-inkscape-font-specification:Lato"
-           id="tspan78">Open-source Careers
+           id="tspan35">Open-source Careers
 </tspan></tspan><tspan
          x="81.255859"
          y="1127.0564"
-         id="tspan81"><tspan
+         id="tspan38"><tspan
            style="font-weight:normal;-inkscape-font-specification:Lato"
-           id="tspan80">Community &amp; Culture
+           id="tspan37">Community &amp; Culture
 </tspan></tspan><tspan
          x="81.255859"
          y="1145.1122"
-         id="tspan83"><tspan
+         id="tspan41"><tspan
            style="font-weight:normal;-inkscape-font-specification:Lato"
-           id="tspan82">Cloud &amp; </tspan></tspan><tspan
-         x="81.255859"
-         y="1167.6268"
-         id="tspan85"><tspan
-           dx="0 3.936168 7.9445467 5.0628338 5.1422901 7.1789627 6.2545204 5.1783829 4.9617233 6.8973083 8.0528755 5.1783829 8.0528793 4.9617157"
+           id="tspan39">Cloud &amp; </tspan><tspan
            style="font-weight:normal;-inkscape-font-specification:Lato"
-           id="tspan84">Infrastrcuture</tspan></tspan></text>
+           id="tspan40">Infrastrcuture</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:8.85799;display:inline;opacity:0.146628;fill:#000000;stroke:#004455;stroke-width:0.3556;stroke-dasharray:none;filter:url(#filter3837)"
@@ -1557,9 +1553,9 @@
        transform="matrix(-0.03436411,-8.1133872,-8.1130322,0.03436264,-232.63282,-214.25628)"><tspan
          x="-2.6373675"
          y="24.88777"
-         id="tspan87"><tspan
+         id="tspan43"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Lato Bold';fill:#1d7193"
-           id="tspan86">th</tspan></tspan></text>
+           id="tspan42">th</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;opacity:0.146628;fill:#000000;stroke:#004455;stroke-width:0.3556;stroke-dasharray:none;filter:url(#filter3837)"
