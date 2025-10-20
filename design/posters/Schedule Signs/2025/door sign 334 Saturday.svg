@@ -28,8 +28,8 @@
      showgrid="false"
      units="in"
      inkscape:zoom="0.6408537"
-     inkscape:cx="455.64222"
-     inkscape:cy="594.51947"
+     inkscape:cx="273.07325"
+     inkscape:cy="596.07989"
      inkscape:window-width="1880"
      inkscape:window-height="1043"
      inkscape:window-x="1960"
@@ -471,16 +471,16 @@
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:27.0405px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-36);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
          y="444.77978"
-         id="tspan943">
+         id="tspan3731">
 </tspan><tspan
          x="686.32812"
          y="474.52432"
-         id="tspan947">11:30<tspan
+         id="tspan3735">11:30<tspan
    style="letter-spacing:0px"
-   id="tspan945">a</tspan>m - Coop-Cloud: Democratically Built and </tspan><tspan
+   id="tspan3733">a</tspan>m - Coop-Cloud: Democratically Built and </tspan><tspan
          x="686.32812"
          y="504.26886"
-         id="tspan949">Governed Cloud</tspan></text>
+         id="tspan3737">Governed Cloud</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(3.125)"
@@ -518,9 +518,9 @@
          style="font-weight:bold;font-size:13.3333px;font-family:dosis;-inkscape-font-specification:'dosis Bold';text-align:center;white-space:pre;shape-inside:url(#rect2629);display:inline;opacity:1;fill:#1d7193;fill-opacity:1;stroke-width:12.768"><tspan
            x="509.84829"
            y="1050.664"
-           id="tspan953"><tspan
+           id="tspan3741"><tspan
              style="font-weight:600;font-family:Lato;-inkscape-font-specification:'Lato Semi-Bold'"
-             id="tspan951">seagl.org/feedback</tspan></tspan></text>
+             id="tspan3739">seagl.org/feedback</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:112.901px;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;opacity:1;fill:#1d7193;fill-opacity:1;stroke-width:37.424"
@@ -539,9 +539,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6671px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;white-space:pre;shape-inside:url(#rect11295);display:inline;opacity:1;fill:#1d7193;fill-opacity:1;stroke-width:12.768"><tspan
            x="253.59467"
            y="1016.6655"
-           id="tspan957"><tspan
+           id="tspan3745"><tspan
              style="font-weight:300;-inkscape-font-specification:'Lato Light'"
-             id="tspan955">Concerns?</tspan></tspan></text>
+             id="tspan3743">Concerns?</tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -550,14 +550,14 @@
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:27.0405px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-36-3);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
          y="443.42776"
-         id="tspan959">
+         id="tspan3747">
 </tspan><tspan
          x="686.32812"
          y="470.46826"
-         id="tspan961">10:30am - Migrating Distributed Systems </tspan><tspan
+         id="tspan3749">10:30am - Migrating Distributed Systems </tspan><tspan
          x="686.32812"
          y="497.50875"
-         id="tspan963">Infrastructure to Serverless: Methodology and Insights</tspan></text>
+         id="tspan3751">Infrastructure to Serverless: Methodology and Insights</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(3.125,0,0,3.125,-2059.2245,636.11099)"
@@ -565,11 +565,11 @@
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:33.3333px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-367);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
          y="450.16013"
-         id="tspan965">
+         id="tspan3753">
 </tspan><tspan
          x="686.32812"
          y="486.82676"
-         id="tspan967">2:00pm - 10 Years of Reproducible Builds</tspan></text>
+         id="tspan3755">2:00pm - 10 Years of Reproducible Builds</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(3.125,0,0,3.125,-2058.7558,873.36596)"
@@ -577,14 +577,14 @@
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:33.3333px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-35);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
          y="450.16013"
-         id="tspan969">
+         id="tspan3757">
 </tspan><tspan
          x="686.32812"
          y="486.82676"
-         id="tspan971">3:00pm - Intro to OpenTofu: Open Source IaC </tspan><tspan
+         id="tspan3759">3:00pm - Intro to OpenTofu: Open Source IaC </tspan><tspan
          x="686.32812"
          y="523.49338"
-         id="tspan973">Overview</tspan></text>
+         id="tspan3761">Overview</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(3.125,0,0,3.125,-2055.5266,1209.1104)"
@@ -592,11 +592,11 @@
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:33.3333px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-35-2);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
          y="450.16013"
-         id="tspan975">
+         id="tspan3763">
 </tspan><tspan
          x="686.32812"
          y="486.82676"
-         id="tspan977">4:00pm - pkgconf: 15 Years Later</tspan></text>
+         id="tspan3765">4:00pm - pkgconf: 15 Years Later</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(3.125,0,0,3.125,-2057.7141,1447.1987)"
@@ -604,19 +604,19 @@
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:33.3333px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-35-2-3-7);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
          y="450.16013"
-         id="tspan979">
+         id="tspan3767">
 </tspan><tspan
          x="686.32812"
          y="486.82676"
-         id="tspan981">5:00pm - No More Mystery </tspan><tspan
+         id="tspan3769">5:00pm - No More Mystery </tspan><tspan
          x="686.32812"
          y="523.49338"
-         id="tspan983">Brownies: SBOMs, Security </tspan><tspan
+         id="tspan3771">Brownies: SBOMs, Security </tspan><tspan
          x="686.32812"
          y="560.16001"
-         id="tspan985">Errata, and the Reciple for </tspan><tspan
+         id="tspan3773">Errata, and the Recipe for </tspan><tspan
          x="686.32812"
          y="596.82663"
-         id="tspan987">Safer Software</tspan></text>
+         id="tspan3775">Safer Software</tspan></text>
   </g>
 </svg>
