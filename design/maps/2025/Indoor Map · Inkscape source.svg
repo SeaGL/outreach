@@ -8550,7 +8550,24 @@
        style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#fcb320;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        d="m 552,433 h 12"
        id="path9"
-       sodipodi:nodetypes="cc" /></g><style
+       sodipodi:nodetypes="cc" /><g
+       id="g3"
+       transform="translate(1.0397339)"><circle
+         style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:9.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.9, 1.9"
+         id="path3"
+         cx="371.96027"
+         cy="768"
+         r="9.5" /><text
+         xml:space="preserve"
+         style="font-size:21.3333px;line-height:1;font-family:sans-serif;text-align:end;text-anchor:end;fill:#1d7193;fill-opacity:1"
+         x="371.96027"
+         y="774.38574"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="371.96027"
+           y="774.38574"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1d7193;fill-opacity:1">i</tspan></text></g></g><style
      type="text/css"
      id="style1">
 	.st0{fill:#231F20;}
