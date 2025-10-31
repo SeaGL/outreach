@@ -28,11 +28,11 @@
      showgrid="false"
      units="in"
      inkscape:zoom="0.6408537"
-     inkscape:cx="282.43576"
-     inkscape:cy="596.07989"
-     inkscape:window-width="1880"
-     inkscape:window-height="1043"
-     inkscape:window-x="1960"
+     inkscape:cx="-93.625113"
+     inkscape:cy="598.42051"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
@@ -466,24 +466,24 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:37.3333px;line-height:0.1;font-family:Dosis;-inkscape-font-specification:'Dosis Semi-Bold';text-align:start;white-space:pre;shape-inside:url(#rect126119);display:inline;fill:#1d7193;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
-       transform="matrix(3.852242,0,0,3.852242,-2566.4553,-174.34897)"
+       transform="matrix(3.852242,0,0,3.852242,-2566.4553,-157.06634)"
        id="text140977-7"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:27.0405px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-36);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
-         y="444.77978"
-         id="tspan6446">
+         y="444.2356"
+         id="tspan3352">
 </tspan><tspan
          x="686.32812"
-         y="474.52432"
-         id="tspan6450">11:30<tspan
+         y="473.98014"
+         id="tspan3356">11:30<tspan
    style="letter-spacing:0px"
-   id="tspan6448">a</tspan>m - The CLI Renaissance: Why Command </tspan><tspan
+   id="tspan3354">a</tspan>m - The CLI Renaissance: Why Command </tspan><tspan
          x="686.32812"
-         y="504.26886"
-         id="tspan6452">Lines Matter in the Age of AI and the Promise of </tspan><tspan
+         y="503.72467"
+         id="tspan3358">Lines Matter in the Age of AI and the Promise </tspan><tspan
          x="686.32812"
-         y="534.0134"
-         id="tspan6454">MCP</tspan></text>
+         y="533.46921"
+         id="tspan3360">of MCP</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(3.125)"
@@ -519,11 +519,11 @@
          transform="matrix(4.3606963,0,0,4.3606963,-159.21957,-2276.7033)"
          id="text2627"
          style="font-weight:bold;font-size:13.3333px;font-family:dosis;-inkscape-font-specification:'dosis Bold';text-align:center;white-space:pre;shape-inside:url(#rect2629);display:inline;opacity:1;fill:#1d7193;fill-opacity:1;stroke-width:12.768"><tspan
-           x="509.84829"
-           y="1050.664"
-           id="tspan6458"><tspan
+           x="503.39167"
+           y="1050.2957"
+           id="tspan3364"><tspan
              style="font-weight:600;font-family:Lato;-inkscape-font-specification:'Lato Semi-Bold'"
-             id="tspan6456">seagl.org/feedback</tspan></tspan></text>
+             id="tspan3362">seagl.org/feedback</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:112.901px;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;opacity:1;fill:#1d7193;fill-opacity:1;stroke-width:37.424"
@@ -540,11 +540,11 @@
          transform="matrix(2.8731093,0,0,2.8731093,1330.6329,-782.11277)"
          id="text11293"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6671px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;white-space:pre;shape-inside:url(#rect11295);display:inline;opacity:1;fill:#1d7193;fill-opacity:1;stroke-width:12.768"><tspan
-           x="253.59467"
-           y="1016.6655"
-           id="tspan6462"><tspan
+           x="249.148"
+           y="1015.8873"
+           id="tspan3368"><tspan
              style="font-weight:300;-inkscape-font-specification:'Lato Light'"
-             id="tspan6460">Concerns?</tspan></tspan></text>
+             id="tspan3366">Concerns?</tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -552,83 +552,74 @@
        id="text140977-7-6"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:27.0405px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-36-3);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
-         y="443.42776"
-         id="tspan6464">
+         y="442.88357"
+         id="tspan3370">
 </tspan><tspan
          x="686.32812"
-         y="470.46826"
-         id="tspan6466">10:30am - GREP by Example</tspan></text>
+         y="469.92407"
+         id="tspan3372">10:30am - GREP by Example</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(3.125,0,0,3.125,-2063.8912,538.77947)"
+       transform="matrix(3.125,0,0,3.125,-2063.8912,566.31348)"
        id="text140977-5"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:33.3333px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-367);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
-         y="450.16013"
-         id="tspan6468">
+         y="449.4893"
+         id="tspan3374">
 </tspan><tspan
          x="686.32812"
-         y="486.82676"
-         id="tspan6470">2:00pm - Today I Learned... The 2025 FLOSS </tspan><tspan
+         y="486.15593"
+         id="tspan3376">2:00pm - Today I Learned... The 2025 FLOSS </tspan><tspan
          x="686.32812"
-         y="523.49338"
-         id="tspan6472">Research Roundup</tspan></text>
+         y="522.82255"
+         id="tspan3378">Research Roundup</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(3.125,0,0,3.125,-2063.4224,847.60295)"
+       transform="matrix(3.125,0,0,3.125,-2063.4224,892.94042)"
        id="text140977-6"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:33.3333px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-35);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
-         y="450.16013"
-         id="tspan6474">
+         y="449.4893"
+         id="tspan3380">
 </tspan><tspan
          x="686.32812"
-         y="486.82676"
-         id="tspan6476">3:00pm - What is Free Software?</tspan></text>
+         y="486.15593"
+         id="tspan3382">3:00pm - What is Free Software?</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(3.125,0,0,3.125,-2060.1933,1041.8432)"
+       transform="matrix(3.125,0,0,3.125,-2060.1933,1104.4633)"
        id="text140977-6-9"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:33.3333px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-35-2);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
-         y="450.16013"
-         id="tspan6478">
+         y="449.4893"
+         id="tspan3384">
 </tspan><tspan
          x="686.32812"
-         y="486.82676"
-         id="tspan6480">4:00pm - How I used Open-Source Tools to Prove </tspan><tspan
+         y="486.15593"
+         id="tspan3386">4:00pm - How I used Open-Source Tools to Prove </tspan><tspan
          x="686.32812"
-         y="523.49338"
-         id="tspan6482">my Marriage to the US Government</tspan></text>
+         y="522.82255"
+         id="tspan3388">my Marriage to the US Government</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(3.125,0,0,3.125,-2060.1933,1351.8646)"
-       id="text140977-6-9-6"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:33.3333px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-35-2-3);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
-         x="686.32812"
-         y="450.16013"
-         id="tspan6484">
-</tspan><tspan
-         x="686.32812"
-         y="486.82676"
-         id="tspan6486">4:30pm - FediPact: Why?</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(3.125,0,0,3.125,-2060.7662,1544.8549)"
+       transform="matrix(3.125,0,0,3.125,-2060.7662,1426.9236)"
        id="text140977-6-9-6-5"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:33.3333px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato Medium';text-align:start;white-space:pre;shape-inside:url(#rect140979-35-2-3-7);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
-         y="450.16013"
-         id="tspan6488">
+         y="449.4893"
+         id="tspan3390">
 </tspan><tspan
          x="686.32812"
-         y="486.82676"
-         id="tspan6490">5:00pm - Let's Create our own </tspan><tspan
+         y="486.15593"
+         id="tspan3392">5:00pm - Let's Create our </tspan><tspan
          x="686.32812"
-         y="523.49338"
-         id="tspan6492">Tech Jobs Together Following </tspan><tspan
+         y="522.82255"
+         id="tspan3394">own Tech Jobs Together </tspan><tspan
          x="686.32812"
-         y="560.16001"
-         id="tspan6494">Open Source Principles</tspan></text>
+         y="559.48918"
+         id="tspan3396">Following Open Source </tspan><tspan
+         x="686.32812"
+         y="596.15581"
+         id="tspan3398">Principles</tspan></text>
   </g>
 </svg>
