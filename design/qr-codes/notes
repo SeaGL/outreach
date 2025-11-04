@@ -1,0 +1,27 @@
+https://github.com/heuer/segno
+https://github.com/heuer/qrcode-artistic
+
+https://segno.readthedocs.io/en/latest/artistic-qrcodes.html
+https://segno.readthedocs.io/en/latest/api.html#svg
+https://segno.readthedocs.io/en/latest/svg-options.html
+https://segno.readthedocs.io/en/stable/command-line.html
+https://segno.readthedocs.io/en/latest/pillow-qrcodes.html
+
+https://github.com/heuer/qrcode-artistic/issues/8
+https://github.com/heuer/qrcode-artistic/blob/master/tests/test_to_artistic.py
+https://github.com/heuer/qrcode-artistic/issues/6
+
+https://stackoverflow.com/questions/37048807/python-image-library-and-keyerror-jpg
+https://pillow.readthedocs.io/en/stable/reference/Image.html#PIL.Image.Image.save
+https://stackoverflow.com/questions/28503419/unknown-extension-in-save-function-of-pil-due-to-empty-extension-array
+
+https://realpython.com/python-generate-qr-code/
+
+https://nixos.wiki/wiki/Python
+
+
+```sh
+python -m venv .venv
+source .venv/bin/activate
+pip install qrcode-artistic
+```
