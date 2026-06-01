@@ -8,8 +8,8 @@
    style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
    id="svg131"
    sodipodi:docname="call-for-proposal_fixed.svg"
-   inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
-   inkscape:export-filename="../Downloads/call-for-proposal_fixed.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:export-filename="../Downloads/call-for-proposal_fixed.pdf"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,15 +25,15 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="0.65053824"
-   inkscape:cx="-20.752047"
-   inkscape:cy="615.64406"
-   inkscape:window-width="1676"
-   inkscape:window-height="1010"
+   inkscape:zoom="0.92"
+   inkscape:cx="895.65217"
+   inkscape:cy="593.47826"
+   inkscape:window-width="3440"
+   inkscape:window-height="1371"
    inkscape:window-x="0"
-   inkscape:window-y="18"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g111"
+   inkscape:current-layer="g177"
    inkscape:document-units="in"><inkscape:page
      x="0"
      y="0"
@@ -495,8 +495,8 @@
      sodipodi:role="line"
      id="tspan140"
      x="1175.4541"
-     y="1684.2478"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:142.513px;font-family:Dosis;-inkscape-font-specification:'Dosis, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.1401">May 31st</tspan></text>
+     y="1682.8733"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:142.513px;font-family:Dosis;-inkscape-font-specification:'Dosis, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.1401">June 30th</tspan></text>
         <g
    transform="matrix(125,0,0,125,1094.9448,1638.1699)"
    id="g54">
@@ -815,7 +815,7 @@
         </g>
         
     </g><g
-     transform="matrix(0.40258019,0,0,0.40258019,-105.89147,357.80743)"
+     transform="matrix(0.50396177,0,0,0.50396177,-261.32514,289.76761)"
      id="g92">
         <g
    transform="matrix(0.856765,0,0,1,227.96769,0)"
@@ -828,27 +828,28 @@
    x="1591.563"
    y="726.16602"
    style="font-weight:700;font-size:75.294px;font-family:SFProDisplay-Bold, 'SF Pro Display';fill:#3e4650"
-   id="text90">T<tspan
-   x="1626.7729"
-   y="726.16602"
-   id="tspan90">o</tspan>pics</text>
+   id="text90"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Bold'"
+     id="tspan1">Topics</tspan></text>
         </g>
     </g><g
      transform="matrix(0.22759826,0,0,0.22759826,-98.482499,508.70786)"
      id="g94">
         <text
-   x="459"
-   y="2038"
-   style="font-weight:700;font-size:194.05px;font-family:SFProDisplay-Bold, 'SF Pro Display';fill:#423d4d"
+   x="457.17526"
+   y="1945.5488"
+   style="font-weight:700;font-size:261.632px;font-family:SFProDisplay-Bold, 'SF Pro Display';fill:#423d4d;stroke-width:1.34827"
    id="text92"><tspan
      sodipodi:role="line"
      id="tspan176"
-     x="459"
-     y="2038">November</tspan><tspan
+     x="457.17526"
+     y="1945.5488"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Bold';stroke-width:1.34827">October</tspan><tspan
      sodipodi:role="line"
      id="tspan177"
-     x="459"
-     y="2280.5625">6-7, 2026</tspan></text>
+     x="457.17526"
+     y="2277.2932"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Bold';stroke-width:1.34827">23-24, 2026</tspan></text>
         <g
    transform="matrix(194.05044,0,0,194.05044,1297.3586,2269.5719)"
    id="g93">
