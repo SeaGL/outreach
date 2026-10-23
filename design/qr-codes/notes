@@ -21,7 +21,15 @@ https://nixos.wiki/wiki/Python
 
 
 ```sh
+# Create a virtual environment (install venv via your package manager if needed)
 python -m venv .venv
+
+# (in bash or another supported shell)
 source .venv/bin/activate
-pip install qrcode-artistic
+
+# Install required packages
+pip install qrcode-artistic cairo segno
+
+# Run the generator
+./seagl-qr-generator.py
 ```
