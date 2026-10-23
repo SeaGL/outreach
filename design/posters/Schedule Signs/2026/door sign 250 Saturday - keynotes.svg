@@ -29,13 +29,13 @@
      showgrid="false"
      units="in"
      inkscape:zoom="0.75"
-     inkscape:cx="477.33333"
-     inkscape:cy="506.66667"
-     inkscape:window-width="1720"
-     inkscape:window-height="1371"
-     inkscape:window-x="20"
-     inkscape:window-y="20"
-     inkscape:window-maximized="0"
+     inkscape:cx="485.33333"
+     inkscape:cy="636"
+     inkscape:window-width="1440"
+     inkscape:window-height="891"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#505050"
@@ -120,8 +120,8 @@
     <rect
        x="686.32872"
        y="421.66076"
-       width="664.96205"
-       height="220.1063"
+       width="727.62872"
+       height="121.43963"
        id="rect140979" />
     <rect
        x="295.83097"
@@ -194,9 +194,15 @@
     <rect
        x="686.32874"
        y="421.66077"
+       width="758.29082"
+       height="133.43962"
+       id="rect140979-8" />
+    <rect
+       x="686.32874"
+       y="421.66077"
        width="664.96204"
        height="220.10629"
-       id="rect140979-8" />
+       id="rect140979-8-7" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -447,70 +453,70 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:37.3333px;line-height:0.1;font-family:Dosis;-inkscape-font-specification:'Dosis Semi-Bold';text-align:start;white-space:pre;shape-inside:url(#rect126119);display:inline;fill:#1d7193;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
-       transform="matrix(3.125,0,0,3.125,-1919.7754,738.11202)"
+       transform="matrix(3.125,0,0,3.125,-1919.7754,605.87396)"
        id="text140977"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.1;font-family:Dosis;-inkscape-font-specification:Dosis;text-align:start;white-space:pre;shape-inside:url(#rect140979);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.1;font-family:Dosis;-inkscape-font-specification:Dosis;text-align:start;white-space:pre;shape-inside:url(#rect140979);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
-         y="458.46018"
-         id="tspan6">5:30pm : <tspan
+         y="449.26016"
+         id="tspan9">5:30pm : <tspan
    style="font-weight:600;-inkscape-font-specification:'Dosis Semi-Bold'"
-   id="tspan3">The LLM-gen-AI Elephant
+   id="tspan4">The LLM-gen-AI Elephant in Our FOSS Room,
 </tspan></tspan><tspan
          x="686.32812"
-         y="505.39356"
-         id="tspan10"><tspan
-           style="font-weight:600;-inkscape-font-specification:'Dosis Semi-Bold'"
-           id="tspan8">                  in Our FOSS Room,</tspan><tspan
-           style="font-weight:600;-inkscape-font-specification:'Dosis Semi-Bold'"
-           id="tspan9">
-</tspan></tspan><tspan
-         x="686.32812"
-         y="552.32694"
-         id="tspan17"><tspan
+         y="484.46017"
+         id="tspan12"><tspan
    style="font-weight:600;-inkscape-font-specification:'Dosis Semi-Bold'"
-   id="tspan12">   </tspan><tspan
-   style="font-weight:600;-inkscape-font-specification:'Dosis Semi-Bold'"
-   id="tspan14"> Bradley M. Kühn</tspan> <tspan
-   style="font-style:italic;font-weight:300;font-size:32px;font-family:lato;-inkscape-font-specification:'lato Light Italic'"
-   id="tspan16">Keynote</tspan></tspan></text>
+   id="tspan10">    Denver Gingerich</tspan> <tspan
+   style="font-style:italic;font-weight:300;font-size:26.6667px;font-family:lato;-inkscape-font-specification:'lato Light Italic'"
+   id="tspan11">Keynote</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(3.1251524,0,0,3.125,-1919.8802,1308.1121)"
+       transform="matrix(3.1251524,0,0,3.125,-1919.88,1221.6623)"
        id="text140977-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.1;font-family:Dosis;-inkscape-font-specification:Dosis;text-align:start;white-space:pre;shape-inside:url(#rect140979-8);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9992px;line-height:1.1;font-family:Dosis;-inkscape-font-specification:Dosis;text-align:start;white-space:pre;shape-inside:url(#rect140979-8);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
-         y="458.46018"
-         id="tspan21">5:50pm : <tspan
+         y="449.25947"
+         id="tspan14">6:00pm : <tspan
    style="font-weight:600;-inkscape-font-specification:'Dosis Semi-Bold'"
-   id="tspan18">Closing Remarks</tspan></tspan></text>
+   id="tspan13">The KDE Documentary — The Story of
+</tspan></tspan><tspan
+         x="686.32812"
+         y="484.45859"
+         id="tspan16"><tspan
+           style="font-weight:600;-inkscape-font-specification:'Dosis Semi-Bold'"
+           id="tspan15">                   Free Software Underdogs</tspan></tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(3.852242,0,0,3.852242,-2418.902,-138.5369)"
+       transform="matrix(3.852242,0,0,3.852242,-2418.902,-224.36196)"
        id="text140977-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6119px;line-height:1.1;font-family:Dosis;-inkscape-font-specification:Dosis;text-align:start;white-space:pre;shape-inside:url(#rect140979-36);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.2854px;line-height:1.1;font-family:Dosis;-inkscape-font-specification:Dosis;text-align:start;white-space:pre;shape-inside:url(#rect140979-36);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="686.32812"
-         y="451.51292"
-         id="tspan25">5:00pm<tspan
-   style="font-weight:500;-inkscape-font-specification:'Dosis Medium'"
-   id="tspan22"> :</tspan> <tspan
-   style="font-weight:600;-inkscape-font-specification:'Dosis Semi-Bold'"
-   id="tspan23">Common Circuits: Hacking
+         y="447.78131"
+         id="tspan21"><tspan
+           style="font-size:25.9589px"
+           id="tspan17">5:00pm</tspan><tspan
+           style="font-weight:500;font-size:25.9589px;-inkscape-font-specification:'Dosis Medium'"
+           id="tspan18"> :</tspan><tspan
+           style="font-size:25.9589px"
+           id="tspan19"> </tspan><tspan
+           style="font-weight:600;font-size:25.9589px;-inkscape-font-specification:'Dosis Semi-Bold'"
+           id="tspan20">Common Circuits: Hacking Alternative
 </tspan></tspan><tspan
          x="686.32812"
-         y="489.58601"
-         id="tspan33"><tspan
-           style="font-weight:600;-inkscape-font-specification:'Dosis Semi-Bold'"
-           id="tspan26">                  Alternative Technological Futures,</tspan><tspan
-           style="font-weight:600;-inkscape-font-specification:'Dosis Semi-Bold'"
-           id="tspan28">
+         y="481.09525"
+         id="tspan26"><tspan
+           style="font-weight:600;font-size:25.9589px;-inkscape-font-specification:'Dosis Semi-Bold'"
+           id="tspan24">                  Technological Futures,
 </tspan></tspan><tspan
          x="686.32812"
-         y="527.6591"
-         id="tspan36"><tspan
-   style="font-weight:600;-inkscape-font-specification:'Dosis Semi-Bold'"
-   id="tspan34">    Luis Felipe Rosado Murillo</tspan> <tspan
-   style="font-style:italic;font-weight:300;font-size:25.9589px;font-family:lato;-inkscape-font-specification:'lato Light Italic'"
-   id="tspan35">Keynote</tspan></tspan></text>
+         y="514.40918"
+         id="tspan30"><tspan
+           style="font-weight:600;font-size:25.9589px;-inkscape-font-specification:'Dosis Semi-Bold'"
+           id="tspan27">    Luis Felipe Rosado Murillo</tspan><tspan
+           style="font-size:25.9589px"
+           id="tspan28"> </tspan><tspan
+           style="font-style:italic;font-weight:300;font-size:21.6324px;font-family:lato;-inkscape-font-specification:'lato Light Italic'"
+           id="tspan29">Keynote</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(3.125)"
@@ -548,9 +554,9 @@
          style="font-weight:bold;font-size:13.3333px;font-family:dosis;-inkscape-font-specification:'dosis Bold';text-align:center;white-space:pre;shape-inside:url(#rect2629);display:inline;opacity:1;fill:#1d7193;fill-opacity:1;stroke-width:12.768"><tspan
            x="509.84829"
            y="1050.664"
-           id="tspan38"><tspan
+           id="tspan32"><tspan
              style="font-weight:600;font-family:Lato;-inkscape-font-specification:'Lato Semi-Bold'"
-             id="tspan37">seagl.org/feedback</tspan></tspan></text>
+             id="tspan31">seagl.org/feedback</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:112.901px;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;text-anchor:middle;opacity:1;fill:#1d7193;fill-opacity:1;stroke-width:37.424"
@@ -569,9 +575,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.6671px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;white-space:pre;shape-inside:url(#rect11295);display:inline;opacity:1;fill:#1d7193;fill-opacity:1;stroke-width:12.768"><tspan
            x="253.1501"
            y="1016.6655"
-           id="tspan40"><tspan
+           id="tspan34"><tspan
              style="font-weight:300;-inkscape-font-specification:'Lato Light'"
-             id="tspan39">Concerns?</tspan></tspan></text>
+             id="tspan33">Concerns?</tspan></tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(3.1251524,0,0,3.125,-1922.68,968.41952)"
+       id="text140977-2-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.9992px;line-height:1.1;font-family:Dosis;-inkscape-font-specification:Dosis;text-align:start;white-space:pre;shape-inside:url(#rect140979-8-7);display:inline;fill:#074558;fill-opacity:1;stroke-width:0.288;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+         x="686.32812"
+         y="449.25947"
+         id="tspan36">5:50pm : <tspan
+   style="font-weight:600;-inkscape-font-specification:'Dosis Semi-Bold'"
+   id="tspan35">Closing Remarks</tspan></tspan></text>
   </g>
 </svg>
